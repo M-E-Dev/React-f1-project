@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-f1-project/static/css/main.98edf4b5.css",
+    "main.js": "/React-f1-project/static/js/main.9b870039.js",
+    "static/media/red.png": "/React-f1-project/static/media/red.8ea0a115a423b95b44b4.png",
+    "static/media/alp.png": "/React-f1-project/static/media/alp.831a716c83a6bb1e8ea5.png",
+    "static/media/amr.png": "/React-f1-project/static/media/amr.7a3f5b1cef601fe1604c.png",
+    "static/media/mcl.png": "/React-f1-project/static/media/mcl.4252c0a2549ba3432ba8.png",
+    "static/media/alf.png": "/React-f1-project/static/media/alf.234b4adc1f093a217fc9.png",
+    "static/media/fer.png": "/React-f1-project/static/media/fer.4c6992e1921b2aa98b1a.png",
+    "static/media/mer.png": "/React-f1-project/static/media/mer.c54e9943ff16e9ddd794.png",
+    "static/media/haa.png": "/React-f1-project/static/media/haa.d99946d1d178704e6201.png",
+    "static/media/f1.png": "/React-f1-project/static/media/f1.ec85691f996693d0e582.png",
+    "index.html": "/React-f1-project/index.html",
+    "main.98edf4b5.css.map": "/React-f1-project/static/css/main.98edf4b5.css.map",
+    "main.9b870039.js.map": "/React-f1-project/static/js/main.9b870039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98edf4b5.css",
+    "static/js/main.9b870039.js"
+  ]
+}
